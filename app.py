@@ -63,7 +63,7 @@ def main():
     with tab_examples:
         example_images = {
             "🍫 Chocolate Bar": "images/hide_and_seek.jpg",
-            "🥤 Energy Drink": "images/bournvita.jpg",
+            "🥤 Chocolate Drink": "images/bournvita.jpg",
             "🥔 Potato Chips": "images/lays.jpg",
             "🧴 Shampoo": "images/shampoo.jpg"
         }
