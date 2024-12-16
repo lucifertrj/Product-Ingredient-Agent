@@ -14,7 +14,7 @@ A Streamlit application that analyzes product ingredients using Gemini AI to pro
 
 ## Demo 🎥
 
-[Add a GIF or screenshot of your application here]
+<Tutorial will be released on YouTube. Meanwhile, watch [Agentic RAG using Phidata](https://www.youtube.com/watch?v=CDC3GOuJyZ0) >
 
 ## Installation 🚀
 
