@@ -1,6 +1,6 @@
 # Product Ingredient Agent 🔍
 
-### Multimodal Agentic Workflow
+### Multimodal Agentic Workflow - [Phidata](https://github.com/phidatahq/phidata/)
 
 A Streamlit application that analyzes product ingredients using Gemini AI to provide insights about food and personal care products.
 
