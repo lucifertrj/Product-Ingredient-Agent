@@ -35,7 +35,7 @@ def resize_image_for_display(image_file):
 @st.cache_resource
 def get_agent():
     return Agent(
-        model=Gemini(id="gemini-2.0-flash-exp"),
+        model=Gemini(id="gemini-2.0-flash"),
         system_prompt=SYSTEM_PROMPT,
         instructions=INSTRUCTIONS,
         tools=[TavilyTools(api_key=os.getenv("TAVILY_API_KEY"))],
