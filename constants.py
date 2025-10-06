@@ -6,7 +6,8 @@ Return your response in Markdown format.
 """
 
 INSTRUCTIONS = """
-* Read ingredient list from product image 
+* Read ingredient list from product image and also make sure, it is a valid food product and not just list of some ingredients. 
+* Identify the image before the ingredient list. 
 * Remember the user may not be educated about the product, break it down in simple words like explaining to 10 year kid
 * Identify artificial additives and preservatives
 * Check against major dietary restrictions (vegan, halal, kosher). Include this in response. 
